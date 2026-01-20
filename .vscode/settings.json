@@ -1,0 +1,11 @@
+{
+    "chat.mcp.serverSampling": {
+        "skills-integrate-mcp-with-copilot/.vscode/mcp.json: github": {
+            "allowedModels": [
+                "copilot/claude-sonnet-4.5",
+                "copilot/auto",
+                "copilot/gpt-4.1"
+            ]
+        }
+    }
+}
